@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/0p43rchfhlbz6.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"kingdom-of-marionettes","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"N5BoJIq7z3H6iZ1QKT5ZZ"}
+:HL["/_next/static/chunks/01pi1lfz-ct-m.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"kingdom-of-marionettes","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"crE-Pwe7QBsJuX_NHgjyI"}
