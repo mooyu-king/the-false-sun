@@ -1,0 +1,20 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#13231E"/>
+  <rect x="40" y="40" width="1520" height="920" rx="36" fill="url(#panel)"/>
+  <path d="M0 742C196 652 340 620 518 620C720 620 786 706 980 706C1184 706 1338 626 1600 520V1000H0V742Z" fill="#1E332D"/>
+  <path d="M0 828C262 724 482 704 706 704C904 704 1138 792 1600 676V1000H0V828Z" fill="#29453C"/>
+  <circle cx="1234" cy="248" r="128" fill="rgba(243,214,162,0.24)"/>
+  <rect x="184" y="212" width="286" height="396" rx="28" fill="#101916" stroke="rgba(255,255,255,0.12)" stroke-width="4"/>
+  <rect x="560" y="276" width="856" height="88" rx="20" fill="rgba(255,255,255,0.08)"/>
+  <rect x="560" y="402" width="792" height="28" rx="14" fill="rgba(255,255,255,0.12)"/>
+  <rect x="560" y="458" width="732" height="28" rx="14" fill="rgba(255,255,255,0.12)"/>
+  <rect x="560" y="514" width="764" height="28" rx="14" fill="rgba(255,255,255,0.12)"/>
+  <text x="600" y="336" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="72" font-weight="700">Cobb Can Move</text>
+  <text x="600" y="624" fill="#D5DFD9" font-family="Arial, sans-serif" font-size="34">Use this local placeholder until official screenshots are supplied.</text>
+  <defs>
+    <linearGradient id="panel" x1="800" y1="40" x2="800" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A2D27"/>
+      <stop offset="1" stop-color="#101916"/>
+    </linearGradient>
+  </defs>
+</svg>

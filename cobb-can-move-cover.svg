@@ -1,0 +1,17 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" fill="#101916"/>
+  <rect x="48" y="48" width="1104" height="1104" rx="56" fill="url(#bg)"/>
+  <rect x="96" y="96" width="1008" height="1008" rx="40" stroke="rgba(255,255,255,0.12)" stroke-width="4"/>
+  <circle cx="890" cy="276" r="162" fill="rgba(243,214,162,0.16)"/>
+  <circle cx="328" cy="886" r="222" fill="rgba(119,168,143,0.18)"/>
+  <path d="M348 578C348 462.02 442.02 368 558 368H682C797.98 368 892 462.02 892 578C892 693.98 797.98 788 682 788H558C442.02 788 348 693.98 348 578Z" fill="#16231F"/>
+  <path d="M504 578C504 519.458 551.458 472 610 472H642C700.542 472 748 519.458 748 578C748 636.542 700.542 684 642 684H610C551.458 684 504 636.542 504 578Z" fill="#F3D6A2"/>
+  <text x="600" y="926" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="92" font-weight="700" text-anchor="middle">COBB CAN MOVE</text>
+  <text x="600" y="992" fill="#D5DFD9" font-family="Arial, sans-serif" font-size="34" font-weight="400" text-anchor="middle">Browser game page cover placeholder</text>
+  <defs>
+    <linearGradient id="bg" x1="600" y1="48" x2="600" y2="1152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B2D27"/>
+      <stop offset="1" stop-color="#101916"/>
+    </linearGradient>
+  </defs>
+</svg>
