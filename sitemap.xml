@@ -132,4 +132,16 @@
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
+<url>
+<loc>https://the-false-sun.org/dracula-drop/</loc>
+<lastmod>2026-07-02</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://the-false-sun.org/over-dose/</loc>
+<lastmod>2026-07-02</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
 </urlset>
