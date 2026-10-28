@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/3kxxp_hed7d5r.css","style"]
 :HL["/_next/static/chunks/0j7l1l4c-47hl.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"frankies-fun-house","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Izs2RjSjX0x-JiUSgvcRE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"frankies-fun-house","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"PtX9r3Q2ifTlWQewOEdrk"}
