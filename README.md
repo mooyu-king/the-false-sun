@@ -6,11 +6,11 @@ The False Sun is a browser horror game site built around stories that begin with
 
 ## Play The False Sun Online
 
-- **Official website:** [https://the-false-sun.org/](https://the-false-sun.org/)
+- **Website:** [https://the-false-sun.org/](https://the-false-sun.org/)
 - **Launch the game:** <a href="https://the-false-sun.org/" target="_blank" rel="noopener">Play The False Sun online</a>
 - **Collection:** Browser horror, visual novels, surreal stories, character-driven games, videos, screenshots, and FAQ guides
 
-The live website is the intended way to experience the project. This repository contains the generated static export used for deployment. The public site provides the complete header, game search, Play Game menu, deferred iframe, fullscreen and sharing controls, game-card strip, long-form content, responsive videos, and footer navigation.
+The live website is the intended way to experience the project. The public site provides the complete header, game search, Play Game menu, deferred iframe, fullscreen and sharing controls, game-card strip, long-form content, responsive videos, and footer navigation.
 
 ## Familiar Light, Unfamiliar Meaning
 
@@ -26,13 +26,7 @@ The browser page respects that slow rhythm. Its launch panel gives players a bri
 
 Screenshots are distributed through the guide to support the subjects being discussed. Images can show the farm, character expressions, dialogue framing, or moments where warmth begins to feel staged. Every image uses a short local path and meaningful alternative text. This helps screen-reader users understand the role of the artwork and gives search engines accurate context without repeating long lists of keywords.
 
-The site Logo uses `the-false-sun-logo.webp` across the header, favicon, game card, and social metadata. Clicking the header Logo returns to the homepage. Inner pages keep one clear H1 for the current game rather than turning the shared Logo into a second heading. These small structural decisions protect accessibility and keep page topics understandable to crawlers.
-
 ## One Shared Format, Different Games
-
-The False Sun website includes a growing browser horror collection. All formal inner pages use shared data and the same `GamePageTemplate`, preserving the header, footer, game frame, toolbar, video placement, card strip, content width, FAQ design, and mobile behavior. New games still receive their own cover, screenshots, iframe, video links, hero description, original long-form introduction, and mature-content guidance.
-
-The shared games array powers several discovery surfaces at once. Adding a complete entry updates the homepage cards, every inner-page card strip, the top Play Game dropdown, search results, and sitemap routes. The current game's card remains visible and receives a subtle active treatment instead of being removed. This prevents a new route from existing without the navigation needed to find it.
 
 ## Killer Chat
 
@@ -40,15 +34,11 @@ The shared games array powers several discovery surfaces at once. Adding a compl
 
 Killer Chat brings digital conversation and uncertainty into the collection. The player must interpret messages, character behavior, and the danger hidden behind apparent connection. Its page uses the same site structure as The False Sun while adopting its own screenshots, video references, and editorial focus. The guide avoids copying a reference page and instead explains the game's appeal through original discussion of trust, identity, online intimacy, and route choices.
 
-This relationship between shared format and unique content is a core project rule. A new game should look native to The False Sun website without losing the specific atmosphere that made the game worth adding. The template provides consistency; the artwork and writing provide identity.
-
 ## Jackpot Crash Course
 
 ![Jackpot Crash Course casino death-game cover](./jackpot-crash-course-logo.webp)
 
 Jackpot Crash Course expands the catalog into casino spectacle and public judgment. Eddie enters a televised competition where criminal contestants are offered the possibility of a pardon. Bright lights and game-show energy make each round entertaining for an audience, while alliances, reputation, violence, and the design of the rules create pressure for the people on stage. The page includes the playable iframe, two videos, four supporting images, original long-form analysis, route guidance, browser help, and ten FAQ entries.
-
-The game card uses the supplied Logo and appears in the same card strip as all other titles. The top Play Game menu and sitemap derive from the same data entry, reducing the chance that one navigation surface is forgotten. Its introduction follows The False Sun content framework while using a different editorial angle from versions hosted by other projects.
 
 ## Browser Compatibility and Content Guidance
 
@@ -56,8 +46,12 @@ Desktop or laptop fullscreen is recommended for the most comfortable game text a
 
 Content notes help players decide whether a game fits their current mood. The collection may include psychological horror, obsessive relationships, violence, blood, gore, coercion, public humiliation, or disturbing imagery. The colorful or peaceful appearance of a game is not always a reliable guide to its themes, so each long-form page provides context without revealing every plot turn.
 
-## Static Export and Deployment
+## Plan Your First Visit
 
-This repository contains the static files generated by Next.js. The command `npm run build-preserve-git` moves `out/.git` to a safe location, builds in a temporary workspace, refreshes the deployment output, restores or initializes the Git repository, configures the `main` branch and GitHub remote, and copies this illustrated README from its maintained template. The manual `tmple/` folder is intentionally excluded from compilation until a route blueprint is copied into `src/app` and connected to shared site data.
+Start with the game's introduction and content notes before opening the player. Screenshots offer a quick impression of the artwork and reading interface, while the accompanying guide explains the premise without requiring you to follow a complete walkthrough. Choose a title because its mood interests you, rather than assuming that every game in the collection offers the same controls, length, or type of story.
 
-Generated HTML should not be edited as the source of truth because it will be replaced during the next build. For playable games, current screenshots, videos, guides, and navigation, visit [the-false-sun.org](https://the-false-sun.org/).
+For a first session, leave enough time to read the opening carefully. If the game presents choices, notice how their tone differs before selecting a response. If it follows a linear story, enjoy the pacing without expecting every conversation to branch. Individual games have their own rules, and a related title is not necessarily a sequel or an experience by the same creator.
+
+Keep the guide page available when you need a reminder about browser controls. Fullscreen can make dialogue easier to read, but it does not change the game's compatibility requirements. Sound may need a click before it starts, and a slow connection can delay the initial loading screen. If something fails, check the page's help rather than assuming your progress has been saved.
+
+When you are ready for another experience, use the shared game cards or navigation menu to browse a different title. Read its own description and content guidance before beginning. Sharing the page address gives a friend the same starting point without implying that your choices, progress, or browser saves will transfer to their device.
